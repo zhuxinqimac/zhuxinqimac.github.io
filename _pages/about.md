@@ -12,7 +12,7 @@ I am a Ph.D. student in Computer Science at the University of Sydney, Australia,
 My current research interests lie in interpretable disentangled representation learning, computer vision, and related deep learning applications.
 
 I received my B.S. degree in 2018 from Shanghai Jiao Tong University, China.
-I am a reviewer for international conferences such as ICML, ICLR, NeurIPS, and ACMMM.
+I am currently a reviewer for academic conferences ICML, ICLR, NeurIPS, and ACMMM.
 
 News
 ======
