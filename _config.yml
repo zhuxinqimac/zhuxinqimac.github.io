@@ -82,13 +82,11 @@ analytics:
 author:
   name             : "Xinqi Zhu"
   avatar           : "profile.png"
-  bio              : "I am a Ph.D. student (to graduate in 2022) at the University of Sydney, working with Dr. Chang Xu and Prof. Dacheng Tao.
-                      My current research interests lie in interpretable disentangled representation learning, computer vision,
-                      and related deep learning applications."
-  location         : "Location"
+  bio              : "Ph.D. student at the University of Sydney (to graduate in 2022)."
+  location         : "Sydney, Australia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=UTev760AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -98,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "zhuxinqimac"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/xinqi-zhu/"
+  orcid            : "https://orcid.org/0000-0003-3261-4595"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -127,6 +125,7 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - ".*.sw*"
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
@@ -257,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/Sydney # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
