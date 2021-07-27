@@ -21,7 +21,7 @@ News
 has been nominated as a best paper candidate!
 
 - 05/08/21 Our paper [Commutative Lie Group VAE for Disentanglement Learning](https://arxiv.org/abs/2106.03375)
-has been accepted as a Long Presentation paper on ICML21!
+has been accepted as a Long Presentation paper in ICML21!
 
 - 03/01/21 Our paper [Where and What? Examining Interpretable Disentangled Representations](https://arxiv.org/abs/2104.05622)
-has been accepted as an Oral paper on CVPR21!
+has been accepted as an Oral paper in CVPR21!
