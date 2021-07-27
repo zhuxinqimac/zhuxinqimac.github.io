@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Xinqi Zhu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am a Ph.D. student (to graduate in 2022) at the University of Sydney, working with Dr. Chang Xu and Prof. Dacheng Tao.
+                      My current research interests lie in interpretable disentangled representation learning, computer vision,
+                      and related deep learning applications."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
