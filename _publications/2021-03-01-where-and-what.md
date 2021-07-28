@@ -9,6 +9,7 @@ excerpt: 'Unlike the independence assumption,
           where to be interpreted and what to be interpreted?'
 date: 2021-03-01
 venue: 'Conference on Computer Vision and Pattern Recognition 2021 (Oral, Best Paper Candidate)'
+authors: 'Xinqi Zhu, Chang Xu, Dacheng Tao'
 ---
 ## Disentangled Semantic Variations on FFHQ Dataset
 
@@ -16,7 +17,6 @@ Zoom in for a better view.
 ![trav_animation](https://github.com/zhuxinqimac/PS-SC/blob/main/imgs/traversals.gif?raw=true)
 
 ## Abstract
-<!--authors: 'Xinqi Zhu, Chang Xu, Dacheng Tao'-->
 <!--paperurl: 'https://arxiv.org/abs/2104.05622'-->
 
 Capturing interpretable variations has long been one of the goals in
