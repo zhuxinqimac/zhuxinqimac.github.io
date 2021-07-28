@@ -54,7 +54,7 @@ CIFAR-100.
 ```
 @article{DBLP:journals/corr/abs-1709-09890,
   author    = {Xinqi Zhu and Michael Bain},
-  title     = {{B-CNN:} Branch Convolutional Neural Network for Hierarchical Classification},
+  title     = {B-CNN: Branch Convolutional Neural Network for Hierarchical Classification},
   journal   = {CoRR},
   volume    = {abs/1709.09890},
   year      = {2017},
