@@ -11,6 +11,7 @@ date: 2021-03-01
 venue: 'Conference on Computer Vision and Pattern Recognition 2021 (Oral, Best Paper Candidate)'
 authors: 'Xinqi Zhu, Chang Xu, Dacheng Tao'
 paperurl: 'https://arxiv.org/abs/2104.05622'
+read_more: 'enabled'
 ---
 ## Disentangled Semantic Variations on FFHQ Dataset
 
