@@ -2,14 +2,16 @@
 title: "Where and What? Examining Interpretable Disentangled Representations"
 collection: publications
 permalink: /publication/2021-03-01-where-and-what
+authors: 'Xinqi Zhu, Chang Xu, Dacheng Tao'
 excerpt: 'Unlike the independence assumption,
           interpretability has rarely been exploited to encourage disentanglement
           in the unsupervised setting. In this paper, we examine the interpretability
           of disentangled representations by investigating two questions:
           where to be interpreted and what to be interpreted?'
+read_more: 'enabled'
 date: 2021-03-01
 venue: 'Conference on Computer Vision and Pattern Recognition 2021 (Oral, Best Paper Candidate)'
-paperurl: 'https://arxiv.org/abs/2104.05622'
+<!--paperurl: 'https://arxiv.org/abs/2104.05622'-->
 ---
 ## Disentangled Semantic Variations on FFHQ Dataset
 
