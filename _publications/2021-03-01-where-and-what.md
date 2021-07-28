@@ -8,7 +8,6 @@ excerpt: 'Unlike the independence assumption,
           in the unsupervised setting. In this paper, we examine the interpretability
           of disentangled representations by investigating two questions:
           where to be interpreted and what to be interpreted?'
-read_more: 'enabled'
 date: 2021-03-01
 venue: 'Conference on Computer Vision and Pattern Recognition 2021 (Oral, Best Paper Candidate)'
 <!--paperurl: 'https://arxiv.org/abs/2104.05622'-->
