@@ -13,7 +13,7 @@ paperurl: 'https://arxiv.org/abs/2104.05622'
 ---
 
 ## Disentangled Semantic Variations on FFHQ Dataset
-![trav_animation](https://github.com/zhuxinqimac/PS-SC/blob/main/imgs/traversals.gif)
+![trav_animation](https://github.com/zhuxinqimac/PS-SC/blob/main/imgs/traversals.gif?raw=true)
 
 ## Abstract
 
