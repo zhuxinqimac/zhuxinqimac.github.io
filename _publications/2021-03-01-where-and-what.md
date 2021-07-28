@@ -31,8 +31,7 @@ supervision, showing the proposed modeling of interpretability is an
 effective proxy for achieving unsupervised disentanglement.
 
 ## Presentation Video
-[![where-and-what](../files/cvpr21-video-thumbnail.png)]
-(https://youtu.be/iXAs2GnDp7g")
+[![where-and-what](../files/cvpr21-video-thumbnail.png)](https://youtu.be/iXAs2GnDp7g")
 
 ## Paper Related Links
 [Paper](https://arxiv.org/abs/2104.05622)
