@@ -13,5 +13,6 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-  <hr style="border:2px solid gray"> </hr>
+  ---
+  ---
 {% endfor %}
