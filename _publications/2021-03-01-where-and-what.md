@@ -11,8 +11,9 @@ date: 2021-03-01
 venue: 'Conference on Computer Vision and Pattern Recognition 2021 (Oral, Best Paper Candidate)'
 paperurl: 'https://arxiv.org/abs/2104.05622'
 ---
-
 ## Disentangled Semantic Variations on FFHQ Dataset
+
+Zoom in for a better view.
 ![trav_animation](https://github.com/zhuxinqimac/PS-SC/blob/main/imgs/traversals.gif?raw=true)
 
 ## Abstract
