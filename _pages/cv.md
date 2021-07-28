@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* 2019 April - July: Visiting Researcher
+* April - July 2019 : Visiting Researcher
   * University of Sydney
   * Supervisor: Dr. Chang Xu and Prof. Dacheng Tao
 
@@ -24,12 +24,9 @@ Work experience
   * University of Sydney
   * Tutor of the course Deep Learning COMP5329
   
-Skills
+Service
 ======
-* PyTorch
-* TensorFlow
-* Python
-* C++
+* Reviewer for academic conferences ICML, ICLR, NeurIPS, and ACMMM.
 
 Publications
 ======
@@ -37,18 +34,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!--Talks-->
-<!--======-->
-<!--<ul>{% for post in site.talks %}-->
-<!--{% include archive-single-talk-cv.html %}-->
-<!--{% endfor %}</ul>-->
-
-<!--Teaching-->
-<!--======-->
-<!--<ul>{% for post in site.teaching %}-->
-<!--{% include archive-single-cv.html %}-->
-<!--{% endfor %}</ul>-->
-  
-Service
+Skills
 ======
-* Reviewer for academic conferences ICML, ICLR, NeurIPS, and ACMMM.
+* PyTorch
+* TensorFlow
+* Python
+* C++
