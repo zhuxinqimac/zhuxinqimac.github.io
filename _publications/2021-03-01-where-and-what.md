@@ -39,11 +39,11 @@ effective proxy for achieving unsupervised disentanglement.
 [Code](https://github.com/zhuxinqimac/PS-SC)
 
 ## Citation
-```
+`
 @inproceedings{Xinqi_cvpr21,
 author={Xinqi Zhu and Chang Xu and Dacheng Tao},
 title={Where and What? Examining Interpretable Disentangled Representations},
 booktitle={CVPR},
 year={2021}
 }
-```
+`
