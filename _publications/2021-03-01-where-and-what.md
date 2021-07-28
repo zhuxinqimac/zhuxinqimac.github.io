@@ -2,7 +2,7 @@
 title: "Where and What? Examining Interpretable Disentangled Representations"
 collection: publications
 permalink: /publication/2021-03-01-where-and-what
-read_more: 'enabled'
+read_more: enabled
 excerpt: 'Unlike the independence assumption,
           interpretability has rarely been exploited to encourage disentanglement
           in the unsupervised setting. In this paper, we examine the interpretability
