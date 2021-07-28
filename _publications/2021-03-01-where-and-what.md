@@ -8,9 +8,8 @@ excerpt: 'Unlike the independence assumption,
           of disentangled representations by investigating two questions:
           where to be interpreted and what to be interpreted?'
 date: 2021-03-01
-venue: 'Conference on Computer Vision and Pattern Recognition 2021 (Oral, Best Paper Candidate)'
+venue: 'Conference on Computer Vision and Pattern Recognition (Oral, Best Paper Candidate)'
 authors: 'Xinqi Zhu, Chang Xu, Dacheng Tao'
-paperurl: 'https://arxiv.org/abs/2104.05622'
 ---
 ## Disentangled Semantic Variations on FFHQ Dataset
 
