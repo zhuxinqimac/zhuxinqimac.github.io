@@ -26,7 +26,7 @@ Work experience
   
 Service
 ======
-* Reviewer for academic conferences ICML, ICLR, NeurIPS, and ACMMM.
+* Invited reviewer for academic conferences ICML, ICLR, NeurIPS, and ACMMM.
 
 Publications
 ======
