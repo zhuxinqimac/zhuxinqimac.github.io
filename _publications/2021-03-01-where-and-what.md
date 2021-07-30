@@ -38,6 +38,10 @@ our models can learn high-quality disentangled representations without
 supervision, showing the proposed modeling of interpretability is an
 effective proxy for achieving unsupervised disentanglement.
 
+## Conference Poster
+
+![poster](https://github.com/zhuxinqimac/PS-SC/blob/main/imgs/cvpr21_poster.png?raw=true)
+
 ## Video Presentation
 [![where-and-what](../files/cvpr21-video-thumbnail.png)](https://youtu.be/iXAs2GnDp7g")
 
