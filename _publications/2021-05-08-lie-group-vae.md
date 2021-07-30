@@ -37,6 +37,10 @@ performance without extra constraints.
 
 ![architecture](https://github.com/zhuxinqimac/CommutativeLieGroupVAE-Pytorch/blob/main/imgs/lie_vae.png?raw=true)
 
+## Conference Poster
+
+![architecture](../files/icml21-poster.pdf)
+
 ## Video Presentation
 [![lie-group-vae](../files/icml21-video-thumbnail.png)](https://recorder-v3.slideslive.com/?share=38302&s=656ce8dd-35cd-4d7f-86c5-83d208e0e1dd)
 
