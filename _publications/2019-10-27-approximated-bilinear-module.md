@@ -36,6 +36,10 @@ recognition datasets.
 
 ![architecture](https://github.com/zhuxinqimac/abm-pytorch/blob/master/imgs/iccv19_architecture.png?raw=true)
 
+## Conference Poster
+
+![poster](https://github.com/zhuxinqimac/abm-pytorch/blob/master/imgs/iccv19_architecture.png?raw=true)
+
 ## Links
 
 [Paper](https://arxiv.org/abs/2007.12887)
