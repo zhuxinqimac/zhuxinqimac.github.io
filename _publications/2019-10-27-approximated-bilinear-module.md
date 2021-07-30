@@ -38,7 +38,7 @@ recognition datasets.
 
 ## Conference Poster
 
-![poster](https://github.com/zhuxinqimac/abm-pytorch/blob/master/imgs/iccv19_architecture.png?raw=true)
+![poster](https://github.com/zhuxinqimac/abm-pytorch/blob/master/imgs/Xinqi_Zhu_poster.png?raw=true)
 
 ## Links
 
