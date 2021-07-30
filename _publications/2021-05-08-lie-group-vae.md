@@ -39,7 +39,7 @@ performance without extra constraints.
 
 ## Conference Poster
 
-![poster](https://github.com/zhuxinqimac/CommutativeLieGroupVAE-Pytorch/blob/main/imgs/Xinqi_poster.pdf?raw=true)
+![poster](https://github.com/zhuxinqimac/CommutativeLieGroupVAE-Pytorch/blob/main/imgs/Xinqi_poster.png?raw=true)
 
 ## Video Presentation
 
