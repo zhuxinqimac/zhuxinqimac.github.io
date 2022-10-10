@@ -11,11 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Shanghai Jiao Tong University, 2018
-* Ph.D. in Computer Science, University of Sydney, 2022 (expected)
+* Ph.D. in Computer Science, University of Sydney, 2022. Thesis: Learning Disentangled Representations
+* B.S. in Computer Science, Shanghai Jiao Tong University, 2018. 89.04/100. Thesis: Temporal Modeling in Action Recognition (top 2%)
+* Exchange student in Computer Science, University of New South Wales, 2017. 88.50/100 (full HD)
 
-Work experience
+Working experience
 ======
+* April 2022 - Present : Applied Scientist Intern
+  * Amazon IML AU
+  * Collaborator: Dr. Vu Nguyen and Dr. Thalaiyasingam Ajanthan
+
 * April - July 2019 : Visiting Researcher
   * University of Sydney
   * Supervisor: Dr. Chang Xu and Prof. Dacheng Tao
@@ -26,7 +31,7 @@ Work experience
   
 Service
 ======
-* Invited reviewer for academic conferences ICML, ICLR, NeurIPS, and ACMMM.
+* Reviewer for AAAI2023, NeurIPS2021/22, ECCV2022, ICLR2022/23, CVPR2022, ICML2021, ACMMM2021, Transactions on Machine Learning Research, IEEE Transactions on Multimedia
 
 Publications
 ======
