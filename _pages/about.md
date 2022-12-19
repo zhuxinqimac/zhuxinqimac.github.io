@@ -18,7 +18,7 @@ I am also an invited reviewer for academic conferences ICML, ICLR, NeurIPS, CVPR
 News
 ======
 
-- 11/19/22 Our paper [ContraFeat: Contrasting Deep Features for Semantic Discovery] has been accepted by AAAI23!
+- 11/19/22 Our paper [ContraFeat: Contrasting Deep Features for Semantic Discovery](https://arxiv.org/abs/2212.07277) has been accepted by AAAI23!
 
 - 04/28/22 I start to work as an Applied Scientist Intern at Amazon!
 
