@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 I am a Machine Learning Engineer at ROKT, Sydney.
-I received my Ph.D. degree in Computer Science at the University of Sydney, Australia, supervised by Prof. Dacheng Tao, co-supervised by Dr. Chang Xu.
-I was also an Applied Scientist Intern at Amazon, working with Dr. Vu Nguyen, Dr. Ajanthan Thalaiyasingam, and Prof. Anton Van Den Hengel.
-My research interest lies in disentangled representation learning, computer vision, tabular data, and related deep learning applications.
+I was an Applied Scientist Intern at Amazon, working with Dr. Vu Nguyen, Dr. Ajanthan Thalaiyasingam, and Prof. Anton Van Den Hengel.
+I received my Ph.D. degree in Computer Science at the University of Sydney, Australia, supervised by Prof. Dacheng Tao, co-supervised by Dr. Chang Xu. Best paper candidate in CVPR 2021.
+My research interest lies in large generative models (language & vision), disentangled representation learning, computer vision, tabular data, and related deep learning applications.
 I received my B.S. degree in Computer Science (top 2%) in 2018 from Shanghai Jiao Tong University, China.
 
 News
