@@ -7,21 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a Machine Learning Research Engineer at TikTok.
 
-I am a Machine Learning Engineer at ROKT, Sydney.
+I was a Machine Learning Engineer at ROKT, working with Mr. Ivan Liu, Dr. Tony Zhao, and Dr. Mustafa Kathawala.
 
 I was an Applied Scientist Intern at Amazon, working with Dr. Vu Nguyen, Dr. Ajanthan Thalaiyasingam, and Prof. Anton Van Den Hengel.
 
 I received my Ph.D. degree in Computer Science at the University of Sydney, Australia, supervised by Prof. Dacheng Tao, co-supervised by Dr. Chang Xu. Best paper candidate in CVPR 2021.
 
-My research interest lies in large generative models (language & vision), disentangled representation learning, computer vision, tabular data, and related deep learning applications.
-
 I received my B.S. degree in Computer Science (top 2%) in 2018 from Shanghai Jiao Tong University, China.
+
+My research interest lies in large generative models (language & vision), disentangled representation learning, computer vision, tabular data, and related deep learning applications.
 
 News
 ======
 
-- 02/27/2022 I started working as a Machine Learning Engineer at ROKT!
+- 11/27/2023 I started working as a Machine Learning Research Engineer at TikTok!
+
+- 02/27/2023 I started working as a Machine Learning Engineer at ROKT!
 
 - 11/19/22 Our paper [ContraFeat: Contrasting Deep Features for Semantic Discovery](https://arxiv.org/abs/2212.07277) has been accepted by AAAI23!
 
