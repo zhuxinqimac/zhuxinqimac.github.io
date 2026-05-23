@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xinqi Zhu"
 title_separator          : "-"
 name                     : &name "Xinqi Zhu"
-description              : &description "Ph.D. student at the University of Sydney."
+description              : &description "Senior Research Engineer @ TikTok."
 url                      : https://zhuxinqimac.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhuxinqimac/zhuxinqimac.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xinqi Zhu"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D. @ University of Sydney | Applied Scientist Intern @ Amazon"
+  bio              : "Senior Research Engineer @ TikTok | Ph.D. @ University of Sydney"
   location         : "Sydney, Australia"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
