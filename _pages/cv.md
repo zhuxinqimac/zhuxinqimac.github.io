@@ -17,9 +17,17 @@ Education
 
 Working experience
 ======
-* April 2022 - Present : Applied Scientist Intern
+* August 2025 - Present : Senior Machine Learning Research Engineer
+  * TikTok
+
+* November 2023 - August 2025 : Machine Learning Research Engineer
+  * TikTok
+
+* February 2023 - November 2023 : Machine Learning Engineer
+  * ROKT
+
+* April 2022 - February 2023 : Applied Scientist Intern
   * Amazon IML AU
-  * Collaborator: Dr. Vu Nguyen and Dr. Thalaiyasingam Ajanthan
 
 * April - July 2019 : Visiting Researcher
   * University of Sydney
